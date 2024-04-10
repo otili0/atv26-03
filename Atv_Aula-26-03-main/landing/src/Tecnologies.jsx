@@ -7,15 +7,15 @@ export const Tecnologies = () => {
         <div className={style["wrap-tec"]}>
             <Menu />
             <div className={style["wrap-boxTec"]}>
-                <h1>React </h1>
+                <h1>React  de cria</h1>
                 <img src="src\assets\img\React.png" alt="icon" style={{ width: '110px', height: '110px' }} />
             </div>
             <div className={style["wrap-boxTec"]}>
-                <h1>Vite</h1>
+                <h1>Vite reliquia</h1>
                 <img src="src\assets\img\Vite.png" alt="icon" style={{ width: '110px', height: '110px' }} />
             </div>
             <div className={style["wrap-boxTec"]}>
-                <h1>Axios</h1>
+                <h1>Axios de cria</h1>
                 <img src="src\assets\img\axios-icon.svg" alt="icon" style={{ width: '110px', height: '110px' }} />
             </div>
             <div className={style["wrap-boxTec"]}>
@@ -23,7 +23,7 @@ export const Tecnologies = () => {
                 <img src="src\assets\img\react-router-dom.png" alt="icon" style={{ width: '110px', height: '110px' }} />
             </div>
             <div className={style["wrap-boxTec"]}>
-                <h1>Npm</h1>
+                <h1>Npm de bandido</h1>
                 <img src="src\assets\img\npmjs-icon.svg" alt="icon" style={{ width: '110px', height: '110px' }} />
             </div>
             <div className={style["wrap-boxTec"]}>
